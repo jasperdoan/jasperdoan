@@ -1,18 +1,10 @@
 # Basically me:
 
 <img src="https://github.com/wluxie/wluxie/blob/main/junior_programmers_in_a_nutshell.gif" width ="100%" />
-
-## Repositories:
-<p>
-  <a href="https://github.com/wluxie/APC-Viewer"><img alt="APC-Viewer" src="https://github-readme-stats.vercel.app/api/pin/?username=wluxie&repo=APC-Viewer&theme=react&hide_border=true"></a>
-  <a href="https://github.com/wluxie/MASHIRO-Assist"><img alt="MASHIRO-Assist" src="https://github-readme-stats.vercel.app/api/pin/?username=wluxie&repo=MASHIRO-Assist&theme=react&hide_border=true"></a>
-  <a href="https://github.com/wluxie/Newtons-Cipher"><img alt="Newtons-Cipher" src="https://github-readme-stats.vercel.app/api/pin/?username=wluxie&repo=Newtons-Cipher&theme=react&hide_border=true"></a>
-  <a href="https://github.com/wluxie/InternLookup"><img alt="InternLookup" src="https://github-readme-stats.vercel.app/api/pin/?username=wluxie&repo=InternLookup&theme=react&hide_border=true"></a>
-</p>
   
 ## Tools:
 
-### Languages & Framework
+### Languages
 <p>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
@@ -20,10 +12,6 @@
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-  <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
-  <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
   
 ### Editor  
