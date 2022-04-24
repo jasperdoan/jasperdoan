@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Jasper%20Doan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20Student&descAlignY=51&descAlign=62)
 
 ## Tools:
+
+  <img src="https://metrics.lecoq.io/wluxie?template=terminal&base.header=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles" width ="45%" align="right"/>
+
 ### Languages
 <p>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -9,8 +12,6 @@
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-  
-  <img src="https://metrics.lecoq.io/wluxie?template=terminal&base.header=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles" width ="45%" align="right"/>
 
 </p>
 
@@ -28,9 +29,9 @@
 </p>
 
 ## 
-<p align="left">
-  <a href="#"><img alt="Jasper's Steak"src="http://github-readme-streak-stats.herokuapp.com?user=wluxie&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="46%"/></a> 
-  <a href="#"><img alt="Jasper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wluxie&show_icons=true&theme=react&hide_border=true" width="46%"/></a>
+<p align="center">
+  <a href="#"><img alt="Jasper's Steak"src="http://github-readme-streak-stats.herokuapp.com?user=wluxie&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="40%"/></a> 
+  <a href="#"><img alt="Jasper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wluxie&show_icons=true&theme=react&hide_border=true" width="40%"/></a>
 </p>
 
 <p align="center">
