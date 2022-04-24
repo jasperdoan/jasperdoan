@@ -1,6 +1,7 @@
-# Basically me:
 
-<img src="https://github.com/wluxie/wluxie/blob/main/junior_programmers_in_a_nutshell.gif" width ="100%" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=wluxie&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="49%" align="right"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=wluxie&show_icons=true&theme=react&hide_border=true" width="49%" align="right"/></a>
+<img src="https://github.com/wluxie/wluxie/blob/main/img%20(2).png" width ="49%" />
   
 ## Tools:
 
@@ -12,6 +13,7 @@
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <img src="https://github.com/wluxie/wluxie/blob/main/img%20(1).png" width ="45%" align="right"/>
 </p>
   
 ### Editor  
@@ -27,12 +29,7 @@
   <a href="#"><img alt="PP" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white&color=black&labelColor=darkviolet"></a>
 </p>
 
-## Github Stats
-
-<p align="center">
-  <a href="#"><img alt="Jasper's Steak"src="http://github-readme-streak-stats.herokuapp.com?user=wluxie&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="49%"/></a> <a href="#"><img alt="Jasper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wluxie&show_icons=true&theme=react&hide_border=true" width="49%"/></a>
-</p>
-
+## 
 <p align="center">
   <a href="#"><img alt="Jasper's Graph" src="https://activity-graph.herokuapp.com/graph?username=wluxie&bg_color=20232a&color=61d9fa&line=61d9fa&point=61d9fa&area=true&hide_border=true"></a>
 </p>
