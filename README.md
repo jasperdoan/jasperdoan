@@ -1,4 +1,4 @@
-<img src="https://github.com/wluxie/wluxie/blob/main/img%20(2).png" width="70%"/>
+<img src="https://github.com/wluxie/wluxie/blob/main/src/img%20(2).png" width="70%"/>
 
 ## Tools:
 ### Languages
@@ -10,7 +10,7 @@
   <a href="https://github.com/search?q=user%3Awluxie+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://github.com/search?q=user%3Awluxie+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   
-  <img src="https://github.com/wluxie/wluxie/blob/main/img%20(1).png" width ="45%" align="right"/>
+  <img src="https://github.com/wluxie/wluxie/blob/main/src/img%20(1).png" width ="45%" align="right"/>
 </p>
 
 ### Editor  
@@ -28,7 +28,7 @@
 
 ## 
 <p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/wluxie/wluxie/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ## 
