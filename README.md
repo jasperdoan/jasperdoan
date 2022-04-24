@@ -1,8 +1,4 @@
-<p align="center">
-<img src="https://github.com/wluxie/wluxie/blob/main/img%20(2).png" width ="49%" align="left"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=wluxie&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="49%" align="right"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wluxie&show_icons=true&theme=react&hide_border=true" width="49%" align="right"/>
-</p>
+<img src="https://github.com/wluxie/wluxie/blob/main/img%20(2).png" width ="49%"/>
 
 ## Tools:
 ### Languages
