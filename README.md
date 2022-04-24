@@ -2,7 +2,7 @@
 
 ## Tools:
 
-  <img src="https://metrics.lecoq.io/wluxie?template=terminal&base.header=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles" width ="45%" align="right"/>
+  <img src="https://metrics.lecoq.io/wluxie?template=terminal&base.header=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles" width ="45%" align="right"/>
 
 ### Languages
 <p>
