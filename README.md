@@ -1,4 +1,4 @@
-<img src="https://github.com/wluxie/wluxie/blob/main/img%20(2).png"/>
+<img src="https://github.com/wluxie/wluxie/blob/main/img%20(2).png" width="70%"/>
 
 ## Tools:
 ### Languages
