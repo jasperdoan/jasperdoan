@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Jasper%20Doan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20Student&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Jasper%20Doan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student&descAlignY=51&descAlign=62)
 
 ## Tools:
 
