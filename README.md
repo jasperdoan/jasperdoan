@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Jasper%20Doan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Jasper%20Doan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student&descAlignY=51&descAlign=62)
 
 <p align="center">
   <a href="#"><img alt="Jasper's Steak"src="http://github-readme-streak-stats.herokuapp.com?user=wluxie&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="49%"/></a> 
