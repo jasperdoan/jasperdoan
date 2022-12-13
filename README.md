@@ -5,10 +5,6 @@
   <a href="#"><img alt="Jasper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wluxie&show_icons=true&theme=react&hide_border=true" width="49%"/></a>
 </p>
 
-<p align="center">
-  <a href="#"><img alt="Jasper's Graph" src="https://activity-graph.herokuapp.com/graph?username=wluxie&bg_color=20232a&color=61d9fa&line=61d9fa&point=61d9fa&area=true&hide_border=true"></a>
-</p>
-
 ##
 <p align="center">
    <img src="https://github.com/wluxie/wluxie/blob/output/github-contribution-grid-snake.svg" alt="snake">
