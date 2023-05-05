@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: wluxie
+          user: jasperdoan
           template: terminal
           base: activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
